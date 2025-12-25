@@ -1,0 +1,11 @@
+# requirements.txt
+
+chromadb>=0.4.22
+google-generativeai>=0.8.4
+python-dotenv>=1.0.0
+langchain>=0.3.0
+tiktoken>=0.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+openai>=1.30.0  # 如果需要使用qwen或其他OpenAI兼容API
+tqdm>=4.66.0
