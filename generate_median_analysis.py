@@ -8,7 +8,7 @@ from typing import Dict, List
 # ========== 中文字体配置 ==========
 def setup_chinese_font():
     """设置中文字体，解决图表中文显示问题"""
-    font_path = '/home/dataset-assist-0/rzh/projects/rag_pq/venv/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/SimHei.ttf'
+    font_path = '/home/dataset-assist-0/rzh/projects/EOQC_pq/venv/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/SimHei.ttf'
     
     if os.path.exists(font_path):
         try:

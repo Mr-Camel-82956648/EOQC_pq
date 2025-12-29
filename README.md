@@ -1,8 +1,6 @@
 [![中关村学院 GitHub 组织](https://img.shields.io/badge/Linked%20to-bjzgcai%20Org-blue?logo=github)](https://github.com/bjzgcai)
 
-# EOQC_pq：基于嵌入向量的选择题干扰项质量评估系统
-
-[![中关村学院 GitHub 组织](https://img.shields.io/badge/Linked%20to-bjzgcai%20Org-blue?logo=github)](https://github.com/bjzgcai)
+# EOQC_pq：面向 AI 驱动教学场景的高质量选择题干扰项评估研究
 
 > **Embedding-based Option Quality Control (EOQC)**  
 > 面向 AI 驱动教学场景的高质量选择题干扰项评估研究

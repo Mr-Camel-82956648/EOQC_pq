@@ -19,7 +19,7 @@ warnings.filterwarnings('ignore')
 # ========== 中文字体配置 ==========
 def setup_chinese_font():
     """设置中文字体，解决图表中文显示问题"""
-    font_path = '/home/dataset-assist-0/rzh/projects/rag_pq/venv/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/SimHei.ttf'
+    font_path = '/home/dataset-assist-0/rzh/projects/EOQC_pq/venv/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/SimHei.ttf'
     
     if os.path.exists(font_path):
         try:
@@ -74,7 +74,7 @@ client = OpenAI(
     api_key=config.GITEEAI_API_KEY,
     base_url="https://ai.gitee.com/v1"
 )
-EMBEDDING_MODEL = "Qwen3-Embedding-8B"
+EMBEDDING_MODEL = "Qwen3-Embedding-0.6B"  # Qwen3-Embedding-8B  bge-m3
 DIMENSIONS_TO_TEST = [32, 64, 128, 256, 512]
 SENTENCE_PAIRS_FILE = "sentence_pairs_1800.json"
 RESULTS_CSV_FILE = "similarity_results_large_scale.csv"

@@ -217,7 +217,7 @@ def create_visual_report(df: pd.DataFrame, thresholds: Dict):
     import seaborn as sns
     
     # 设置中文字体 - 使用虚拟环境中的字体文件
-    font_path = '/home/dataset-assist-0/rzh/projects/rag_pq/venv/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/SimHei.ttf'
+    font_path = '/home/dataset-assist-0/rzh/projects/EOQC_pq/venv/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/SimHei.ttf'
     
     if os.path.exists(font_path):
         try:

@@ -7,7 +7,7 @@ import matplotlib.font_manager as fm
 import os
 
 # 字体文件路径
-font_path = '/home/dataset-assist-0/rzh/projects/rag_pq/venv/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/SimHei.ttf'
+font_path = '/home/dataset-assist-0/rzh/projects/EOQC_pq/venv/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/SimHei.ttf'
 
 print("=" * 60)
 print("中文字体测试")
