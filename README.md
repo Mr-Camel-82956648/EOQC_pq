@@ -4,6 +4,7 @@
 
 > **Embedding-based Option Quality Control (EOQC)**  
 > 面向 AI 驱动教学场景的高质量选择题干扰项评估研究
+> Research on the Evaluation of High-Quality Distractors for Multiple-Choice Questions in AI-Driven Teaching
 
 ---
 
@@ -105,13 +106,4 @@
 - 结论基于 Qwen3-Embedding-8B 模型，不同模型可能产生略有差异的相似度绝对值
 - 相似度仅为质量评估的一个维度，应结合其他手段（如逻辑合理性、知识覆盖度）协同工作
 
----
 
-## 📄 引用与致谢
-
-本研究由中关村学院研究团队完成，数据集与代码已开源。  
-如使用本研究成果，请注明出处。
-
----
-
-## 📁 项目结构
