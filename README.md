@@ -3,8 +3,8 @@
 # EOQC_pq：面向 AI 驱动教学场景的高质量选择题干扰项评估研究
 
 > **Embedding-based Option Quality Control (EOQC)**  
-> 面向 AI 驱动教学场景的高质量选择题干扰项评估研究
-> Embedding-based Option Quality Control for Choice Questions in AI-Driven Teaching
+> 面向 AI 驱动教学场景的高质量选择题干扰项评估研究  
+> Research on the Evaluation of High-Quality Distractors for Multiple-Choice Questions in AI-Driven Teaching
 
 ---
 
